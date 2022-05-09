@@ -1,0 +1,347 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.nav-link {
+    color: green;
+    font-family: 'Tapestry', cursive;
+
+}
+
+.nav-link:hover {
+    color: rgb(16, 17, 17);
+}
+
+.d-block {
+    height: 600px;
+}
+
+body {
+
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 2px 13px 13px 5px rgb(56, 54, 54);
+
+
+}
+
+hr{
+    border: 2px solid rgb(11, 188, 11);
+    box-shadow: 3px 2px 2px 2px greenyellow;
+}
+
+.ppp {
+    height: 120px;
+
+}
+
+.ppp .s {
+    text-align: center;
+    text-shadow: #f6f7f7;
+    font-family: cursive;
+    padding: 10px;
+    font-size: 30px;
+    background-color: #F8F9FA;
+}
+
+hr {
+    color: green;
+}
+
+.row {
+    margin-left: 220px;
+
+}
+
+.card-img-top {
+    box-shadow: 3px 2px 3px 2px rgb(217, 216, 216);
+}
+
+.card-title {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-body {
+    box-shadow: 3px 2px 3px 2px rgb(217, 216, 216);
+}
+
+
+
+.paybillo {
+
+    margin-left: 70px;
+    margin-bottom: 20px;
+    height: 160px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 2px 13px 13px 5px rgb(161, 161, 161);
+}
+
+.paybillo .payb {
+    margin-top: 25px;
+    margin-left: 25%;
+    height: 90px;
+}
+
+
+
+.pb {
+    margin-left: 35px;
+    color: green;
+}
+
+.pp {
+    text-decoration: none;
+}
+
+
+.plessbill {
+    margin-top: -180px;
+    margin-left:330px;
+    height: 160px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 2px 13px 13px 5px rgb(161, 161, 161);
+}
+
+.plessbill .paylb {
+    margin-top: 25px;
+    margin-left: 25%;
+    height: 90px;
+}
+
+.plb {
+    margin-left: 20px;
+    color: green;
+}
+
+.pl {
+    text-decoration: none;
+}
+
+
+
+.epaybillo {
+    margin-top: -160px;
+    margin-left:630px;
+    height: 160px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 2px 13px 13px 5px rgb(161, 161, 161);
+}
+
+
+.epaybillo .epayb {
+    margin-top: 20px;
+    margin-left: 25%;
+    height: 90px;
+}
+
+.epb {
+    margin-left: 35px;
+    color: green;
+}
+
+.epp {
+    text-decoration: none;
+}
+
+.pppaybillo {
+    margin-top: -160px;
+    margin-left: 900px;
+    height: 160px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 2px 13px 13px 5px rgb(161, 161, 161);
+}
+
+.pppaybillo .pppayb {
+    margin-top: 25px;
+    margin-left: 25%;
+    height: 90px;
+}
+
+.pppb {
+    margin-left: 20px;
+    color: green;
+}
+
+.ppp {
+    text-decoration: none;
+}
+
+.learn {
+    height: 250px;
+    width: 100%;
+    background-color: green;
+}
+
+
+.learn h2 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Tapestry', cursive;
+}
+
+
+h5 {
+    font-family: cursive;
+    color: #ccc;
+    padding: 5px;
+}
+
+
+.more {
+    margin-top: 18px;
+    margin-left: 46%;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    border-radius: 8px;
+
+
+}
+
+.more .mo {
+    text-decoration: none;
+    font-family: cursive;
+    color: black;
+    font-weight: bold;
+
+    margin-left: 30px;
+
+
+}
+
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+   
+    padding: 12px;
+    
+    border: 1px solid #ccc;
+  
+    border-radius: 4px;
+    
+    box-sizing: border-box;
+    
+    margin-top: 6px;
+    
+    margin-bottom: 16px;
+    
+    resize: vertical
+       
+}
+
+
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.complain {
+    font-size: 40px;
+    font-family: 'Tapestry', cursive;
+    margin-left: 460px;
+}
+
+.social {
+    margin-left: 442px;
+    margin-bottom: 13px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 50px;
+    height: 40px;
+    width: 40px;
+    text-align: justify;
+    text-decoration: none;
+    border-radius: 50%;
+    margin-left: 50px;
+    padding: 13px;
+}
+
+
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+}
+
+.team {
+    height: 70px;
+    width: 100%;
+    background-color: darkslategray;
+}
+
+.team .teamm {
+    font-family: cursive;
+    color: white;
+    font-size: 20px;
+    margin-left: 480px;
+    padding-top: 10px;
+}
+
+.sp {
+    color: red;
+}
+
+.teamm a {
+    text-decoration: none;
+    color: #45a049;
+}
+
+
+footer {
+    height: 70px;
+    width: 100%;
+    background-color: #1b201f;
+
+
+}
+
+footer p {
+    color: white;
+    margin-left: 425px;
+    font-family: 'Tapestry', cursive;
+}
+
+footer p a {
+    text-decoration: none;
+}
